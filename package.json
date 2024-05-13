@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "deploy-github-pages": "ng deploy --repo=https://github.com/playground/qrcode-scanner.git",
     "test": "ng test"
   },
   "private": true,
@@ -28,6 +29,7 @@
     "@angular/cli": "~16.2.2",
     "@angular/compiler-cli": "^16.2.0",
     "@types/jasmine": "~4.3.0",
+    "angular-cli-ghpages": "^2.0.0-beta.2",
     "autoprefixer": "^10.4.19",
     "flowbite": "^2.3.0",
     "jasmine-core": "~4.6.0",
