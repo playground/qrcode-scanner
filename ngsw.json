@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1715697415040,
+  "index": "https://playground.github.io/qrcode-scanner/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://playground.github.io/qrcode-scanner/favicon.ico",
+        "https://playground.github.io/qrcode-scanner/index.html",
+        "https://playground.github.io/qrcode-scanner/main.236c1c4655226b74.js",
+        "https://playground.github.io/qrcode-scanner/manifest.webmanifest",
+        "https://playground.github.io/qrcode-scanner/polyfills.5b366667ad79e823.js",
+        "https://playground.github.io/qrcode-scanner/runtime.f3b93c9412a81c30.js",
+        "https://playground.github.io/qrcode-scanner/styles.9bf254ee7443cf1d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-128x128.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-144x144.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-152x152.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-192x192.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-384x384.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-512x512.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-72x72.png",
+        "https://playground.github.io/qrcode-scanner/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://playground.github.io/qrcode-scanner/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://playground.github.io/qrcode-scanner/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://playground.github.io/qrcode-scanner/index.html": "c391869e7e877b90f2f244b3af1733a5afc5d409",
+    "https://playground.github.io/qrcode-scanner/main.236c1c4655226b74.js": "9bf9ecc0cc789db52bab6f6ef3ec09ff8633bd46",
+    "https://playground.github.io/qrcode-scanner/manifest.webmanifest": "896d5e4846c7cdcea668b7664392fb7dbadc3a6a",
+    "https://playground.github.io/qrcode-scanner/polyfills.5b366667ad79e823.js": "031ed8555cd8cdcee19a18f4f1e1a72b3111cf66",
+    "https://playground.github.io/qrcode-scanner/runtime.f3b93c9412a81c30.js": "8f0509869df0cfd0b0dbb71fd634e33a806f845a",
+    "https://playground.github.io/qrcode-scanner/styles.9bf254ee7443cf1d.css": "059f793007fc1dcb5d94ff21469f0e8837631a44"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
